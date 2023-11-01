@@ -64,6 +64,7 @@ body {
   font-weight: 700;
   letter-spacing: 0.6px;
   transition: all .5s;
+  color: #373A39;
 }
 
 .menu__list-link:hover {
